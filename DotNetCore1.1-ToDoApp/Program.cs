@@ -18,8 +18,8 @@ namespace DotNetCore1._1_ToDoApp
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("How use program: ");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("+name    | Add item");
-            Console.WriteLine("-name    | Remove item");
+            Console.WriteLine("+item    | Add item");
+            Console.WriteLine("-item    | Remove item");
             Console.WriteLine("--       | Clear list");
             Console.WriteLine("q        | Quit program");
             Console.ForegroundColor = ConsoleColor.Green;
