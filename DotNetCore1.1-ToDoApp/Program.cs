@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DotNetCore1._1_ToDoApp
+namespace ToDoApp
 {
     class Program
     {
         static void Main(string[] args)
         {
             List<string> toDoList = new List<string>();
+            // Declare
             string option = null;
             string taskName = null;
 
