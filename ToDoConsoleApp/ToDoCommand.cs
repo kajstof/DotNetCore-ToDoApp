@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ToDoApp
+namespace ToDoConsoleApp
 {
     
     class ToDoCommand

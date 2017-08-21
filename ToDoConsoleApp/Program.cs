@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ToDoApp
+namespace ToDoConsoleApp
 {
     enum ToDoAction
     {
